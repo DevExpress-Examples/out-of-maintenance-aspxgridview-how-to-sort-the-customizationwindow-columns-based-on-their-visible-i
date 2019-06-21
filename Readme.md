@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to sort the CustomizationWindow columns based on their visible index
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t248252/)**
+<!-- run online end -->
 
 
 <p>By design, ASPxGridView orders columns in CustomizationWindow based on a column's caption. Thus, it is necessary to change the column caption to change its order in the CustomizationWindow. Adding an index before the caption allows you to set the custom column order:</p>
